@@ -1,1 +1,1 @@
-# amhuman
+# am-human
